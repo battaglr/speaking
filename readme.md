@@ -4,7 +4,7 @@ Here you can find the slides of some of the talks I have given.
 
 ## Talks
 
-### SMACSS [[#](slides/smaccs.pdf)]
+### SMACSS [[#](slides/smacss.pdf)]
 
 An introduction to SMACSS and its core principles.
 
