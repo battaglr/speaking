@@ -21,6 +21,14 @@ authoring experience and diffs quality.
 
 *This was made for an internal teach-and-learn session at MercadoLibre.*
 
+### BEM [[#](slides/bem.pdf)]
+
+An introduction to BEM and its core principles.
+
+— August, 2015.
+
+*This was made for an internal teach-and-learn session at MercadoLibre.*
+
 ## License
 
 Do whatever you want with this, it’s public domain.
